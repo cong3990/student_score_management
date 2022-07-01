@@ -1,0 +1,7 @@
+Ma HS, xeploai_TB chuan, xeploai_A, xeploai_A1, xeploai_B, xeploai_C, xeploai_D
+1; Kha; 2; 2; 2; 1; 2
+2; TB; 2; 3; 2; 2; 3
+3; TB kha; 2; 2; 2; 2; 2
+4; Kha; 2; 2; 2; 1; 2
+5; TB kha; 3; 2; 2; 2; 2
+6; Kha; 2; 2; 2; 1; 2
